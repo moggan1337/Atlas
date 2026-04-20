@@ -1,0 +1,36 @@
+# Atlas Physics Simulator
+
+## Build Artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.dll
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+## Testing
+Testing/
+CTestTestfile.cmake
+
+## Documentation
+docs/html/
+docs/latex/
+
+## Misc
+*.log
+.DS_Store
