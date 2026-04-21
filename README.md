@@ -3,8 +3,27 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![C++](https://img.shields.io/badge/C%2B%2B-17-orange.svg)
+[![CI](https://github.com/moggan1337/Atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/Atlas/actions/workflows/ci.yml)
 
 Atlas is a comprehensive, high-performance physics simulation library for 3D applications. It provides a complete suite of physics simulation capabilities ranging from rigid body dynamics to fluid mechanics, cloth simulation, and procedural terrain generation.
+
+## 🎬 Demo
+![Atlas Demo](demo.gif)
+
+*Physics simulation with rigid bodies, fluids, and cloth*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Rigid Body Scene | ![rigid](screenshots/rigid-body.png) |
+| Fluid Simulation | ![fluid](screenshots/fluid.png) |
+| Cloth Physics | ![cloth](screenshots/cloth.png) |
+
+## Visual Description
+Atlas renders 3D rigid bodies colliding under gravity with realistic bounce. Fluid simulation shows particles flowing and splashing with surface tension. Cloth displays fabric draping with wrinkle dynamics and wind effects.
+
+---
+
 
 ## Table of Contents
 
